@@ -1,0 +1,88 @@
+A1 Write a program of Fibonacci and factorial using Class
+
+A2 Write a program to Addition, Subtraction, Multiplication, and Division of two numbers using Class
+
+A3 Write a program of to display a matrix using class
+
+A4 Write a program of Addition of two Matrix using Class.
+
+A5 Define a class to represent a bank account. Include the following members: Data Member:
+-Name of the depositor
+-Account Number
+-Type of Account
+-Balance amount in the account Member Functions
+-To assign values
+-To deposited an amount
+-To withdraw an amount after checking balance
+-To display name and balance
+
+A6 Define a class to represent a book shop Include the following members: Data Member:
+-Name of Author
+-Name of Title
+-Name of Price
+-Name Publisher Member Functions
+-To Assign Values
+-To Display Values
+
+A7 Define a class to represent lecture details. Include the following members and the 		program should handle at lest details of 5 lecturer.
+Data members
+Name of the lecturer Name of the subject Name of course Number of lecturers
+Data functions
+To assign initial values To add a lecture details
+To display name and lecture details
+
+A8 Write a program of to display in this format using class
+Roll No Sub1 Sub2 Sub3 Total Percentage 1 30 25 45 100 2 25 20 25 70 3 20 15 35 70 4 35 30 40 105
+
+A9 Write a program of Addition, Subtraction, Division, Multiplication using constructor.
+
+A10 Write a program of find the simple interest using constructor with dynamic initialization. Make constructor like Interest (int principal, int year, int rate) Interest (int principal, int year, float rate = 2.5)
+
+A11 Write a program to calculate the area of circle, rectangle and triangle using Function Overloading
+Circle: Pi * Area * Area; Rectangle: Area * breadth Triangle: ½ *Area* breadth
+
+A12 Write a program to find the multiplication values and the cubic values using inline function.
+
+A13 Write a program to Mathematic operation like Addition, Subtraction, Multiplication, Division Of two number using different parameters and Function Overloading
+
+A14 Write a Program of Two 1D Matrix Addition using Operator Overloading
+
+A15 Write a program of to concatenate the two strings using Operator Overloading
+
+A16 Write a program of Addition, subtraction and multiplication of two numbers using Binary Operator overloading with switch case.
+
+A17 Assume a class cricketer is declared. Declare a derived class batsman from cricketer .Data member of batsman. Total runs, Average runs and best performance. Member functions input data, calculate average runs, Display data. (Single Inheritance)
+
+A18 Create a class person having members name and age. Derive a class student having member percentage. Derive another class teacher having member salary. Write necessary member function to initialize, read and write data. Write also Main function (Multiple Inheritance)
+
+A19 Assume that the test results of a batch of students are stored in three different classes. Class Students are stores the roll number. Class Test stores the marks obtained in two subjects and class result contains the total marks obtained in the test. The class result can inherit the details of the marks obtained in the test and roll number of students.
+
+A22 Assume that a bank maintains two kinds of accounts for customer, one called as saving account and other as current accounts provides Simple interest and withdraw facilities
+but no cheque book facility. The current account provides cheque book facility but no interest. Current account holders should maintain a minimum balance and if the balance falls below this level a service charges is imposed
+
+A23 Create a class account that stores customer name, account number and type of account. From this derive classes curr_acc and sav_acct to make them more specific to their requirements Include necessary member functions in order to achieve the following tasks
+• Accepts deposit from a customer and update balance.
+• Display the balance.
+• Compute and deposit interest.
+• Permit withdraws and updates the balance.
+• Check for the minimum balance, impose penalty, necessary and update the balance.
+
+A24 Write a program to find the multiplication values and the cubic values using inline function.
+
+A25 Write a program to find the max number from given two numbers using friend function
+
+A26 Write a program to swap the two numbers using friend function
+
+A27 Write a program to swap the two numbers using friend function (Not Use of third variable)
+
+A28 Write a program to add data in text File.
+
+A29 Write a program to read data from text file.
+
+A30 Write a program to read and write data in to file.
+
+A31 Write a Program to read and write data into file using class Object.
+
+A32 Write a program of to swap the two values using templates 50.Write a program of to sort the array using templates.
+
+A33 create a example of use delete and new operator.
